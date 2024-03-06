@@ -13,8 +13,4 @@ items:
   target: "/team/"
   kind: page
   children: []
-- title: Organizations
-  target: "/organizations/"
-  kind: page
-  children: []
 
