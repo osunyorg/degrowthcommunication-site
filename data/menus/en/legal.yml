@@ -5,10 +5,6 @@ items:
   target: "/privacy-policy/"
   kind: page
   children: []
-- title: Accessibility
-  target: "/accessibility/"
-  kind: page
-  children: []
 - title: Sitemap
   target: "/sitemap/"
   kind: page
