@@ -5,10 +5,6 @@ items:
   target: "/posts/"
   kind: page
   children: []
-- title: Agenda
-  target: "/agenda/"
-  kind: page
-  children: []
 - title: Team
   target: "/team/"
   kind: page
