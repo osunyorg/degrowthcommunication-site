@@ -9,4 +9,8 @@ items:
   target: "/the-degrowth-database/"
   kind: page
   children: []
+- title: About
+  target: "/about/"
+  kind: page
+  children: []
 
