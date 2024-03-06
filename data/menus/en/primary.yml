@@ -1,4 +1,12 @@
 ---
 title: Main menu
-items: []
+items:
+- title: About
+  target: "/about/"
+  kind: page
+  children: []
+- title: The Degrowth Database
+  target: "/the-degrowth-database/"
+  kind: page
+  children: []
 
