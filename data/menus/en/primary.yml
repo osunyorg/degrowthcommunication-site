@@ -5,4 +5,8 @@ items:
   target: "/polls/"
   kind: page
   children: []
+- title: The Degrowth Database
+  target: "/the-degrowth-database/"
+  kind: page
+  children: []
 
