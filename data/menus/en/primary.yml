@@ -1,16 +1,12 @@
 ---
 title: Main menu
 items:
-- title: Polls
-  target: "/polls/"
+- title: About
+  target: "/about/"
   kind: page
   children: []
 - title: The Degrowth Database
   target: "/the-degrowth-database/"
-  kind: page
-  children: []
-- title: About
-  target: "/about/"
   kind: page
   children: []
 
