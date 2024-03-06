@@ -17,6 +17,10 @@ items:
   target: "/guides/"
   kind: page
   children: []
+- title: Media
+  target: "/media/"
+  kind: page
+  children: []
 - title: The Degrowth Database
   target: "/the-degrowth-database/"
   kind: page
