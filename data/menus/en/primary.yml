@@ -5,6 +5,14 @@ items:
   target: "/about/"
   kind: page
   children: []
+- title: Degrowth
+  target: "/degrowth/"
+  kind: page
+  children:
+  - title: Polls
+    target: "/degrowth/polls/"
+    kind: page
+    children: []
 - title: The Degrowth Database
   target: "/the-degrowth-database/"
   kind: page
