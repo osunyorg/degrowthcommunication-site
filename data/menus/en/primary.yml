@@ -25,6 +25,10 @@ items:
     target: "/media/posters/"
     kind: page
     children: []
+  - title: Magazine
+    target: "/media/magazine/"
+    kind: page
+    children: []
 - title: The Degrowth Database
   target: "/the-degrowth-database/"
   kind: page
