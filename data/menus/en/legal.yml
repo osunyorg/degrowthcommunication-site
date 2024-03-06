@@ -1,10 +1,6 @@
 ---
 title: Legal
 items:
-- title: Privacy policy
-  target: "/privacy-policy/"
-  kind: page
-  children: []
 - title: Sitemap
   target: "/sitemap/"
   kind: page
