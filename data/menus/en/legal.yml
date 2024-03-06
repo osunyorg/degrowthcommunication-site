@@ -1,10 +1,6 @@
 ---
 title: Legal
 items:
-- title: Legal terms
-  target: "/legal-terms/"
-  kind: page
-  children: []
 - title: Privacy policy
   target: "/privacy-policy/"
   kind: page
