@@ -1,8 +1,4 @@
 ---
 title: Main menu
-items:
-- title: Posts
-  target: "/posts/"
-  kind: page
-  children: []
+items: []
 
