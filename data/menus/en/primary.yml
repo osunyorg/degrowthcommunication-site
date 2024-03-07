@@ -45,4 +45,8 @@ items:
   target: "/the-degrowth-database/"
   kind: page
   children: []
+- title: Values & Principles
+  target: "/values-principles/"
+  kind: page
+  children: []
 
