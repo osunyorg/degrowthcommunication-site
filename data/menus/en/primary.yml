@@ -21,6 +21,10 @@ items:
     target: "/guides/how-to-defeat-the-empire/"
     kind: page
     children: []
+  - title: How to Get Your Dissident Ideas Heard
+    target: "/guides/how-to-get-your-dissident-ideas-heard/"
+    kind: page
+    children: []
   - title: How to Fight Establishment Propaganda and Win
     target: "/guides/how-to-fight-establishment-propaganda-and-win/"
     kind: page
@@ -39,10 +43,6 @@ items:
     children: []
 - title: The Degrowth Database
   target: "/the-degrowth-database/"
-  kind: page
-  children: []
-- title: How to Get Your Dissident Ideas Heard
-  target: "/how-to-get-your-dissident-ideas-heard/"
   kind: page
   children: []
 
