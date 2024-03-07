@@ -13,6 +13,10 @@ items:
     target: "/degrowth/polls/"
     kind: page
     children: []
+- title: Values & Principles
+  target: "/values-principles/"
+  kind: page
+  children: []
 - title: Guides
   target: "/guides/"
   kind: page
@@ -43,10 +47,6 @@ items:
     children: []
 - title: The Degrowth Database
   target: "/the-degrowth-database/"
-  kind: page
-  children: []
-- title: Values & Principles
-  target: "/values-principles/"
   kind: page
   children: []
 
