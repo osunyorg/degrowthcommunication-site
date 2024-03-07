@@ -33,12 +33,12 @@ items:
     target: "/media/magazine/"
     kind: page
     children: []
-- title: The Degrowth Database
-  target: "/the-degrowth-database/"
-  kind: page
-  children: []
 - title: How to Fight Establishment Propaganda and Win
   target: "/how-to-fight-establishment-propaganda-and-win/"
+  kind: page
+  children: []
+- title: The Degrowth Database
+  target: "/the-degrowth-database/"
   kind: page
   children: []
 
