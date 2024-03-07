@@ -41,4 +41,8 @@ items:
   target: "/the-degrowth-database/"
   kind: page
   children: []
+- title: How to Get Your Dissident Ideas Heard
+  target: "/how-to-get-your-dissident-ideas-heard/"
+  kind: page
+  children: []
 
