@@ -45,4 +45,8 @@ items:
     target: "/media/magazine/"
     kind: page
     children: []
+- title: The Degrowth Database
+  target: "/the-degrowth-database/"
+  kind: page
+  children: []
 
