@@ -9,8 +9,8 @@ en:
   params:
     social:
   permalinks:
-    events: /agenda/:year-:month-:day-:slug/
-    events_categories: /agenda/:slug/
+    events: /to-ignore-for-now/agenda/:year-:month-:day-:slug/
+    events_categories: /to-ignore-for-now/agenda/:slug/
   taxonomies:
     administrator: administrators
     author: authors
