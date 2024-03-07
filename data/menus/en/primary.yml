@@ -16,7 +16,11 @@ items:
 - title: Guides
   target: "/guides/"
   kind: page
-  children: []
+  children:
+  - title: How to Defeat the Empire
+    target: "/guides/how-to-defeat-the-empire/"
+    kind: page
+    children: []
 - title: Media
   target: "/media/"
   kind: page
