@@ -8,9 +8,13 @@ en:
   languageName: English
   params:
     social:
+      email: >-
+        arellanojp13@gmail.com
+      x: >-
+        https://twitter.com/JP__Arellano
+      youtube: >-
+        https://www.youtube.com/@DegrowthPlaylists
   permalinks:
-    events: /to-ignore-for-now/agenda/:year-:month-:day-:slug/
-    events_categories: /to-ignore-for-now/agenda/:slug/
   taxonomies:
     administrator: administrators
     author: authors
