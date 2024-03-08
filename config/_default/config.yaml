@@ -3,7 +3,12 @@ paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
 params:
+  breadcrumb:
+    position: after-hero
   summary:
     position: hero
   search:
-    active: false  
+    active: false
+  logo:
+    header: "/assets/images/logo.png"
+    footer: "/assets/images/logo.png"
