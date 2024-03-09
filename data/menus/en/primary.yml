@@ -61,6 +61,10 @@ items:
     target: "/media/podcasts/"
     kind: page
     children: []
+  - title: Podcasts
+    target: "/media/podcasts-1/"
+    kind: page
+    children: []
 - title: The Degrowth Database
   target: "/the-degrowth-database/"
   kind: page
