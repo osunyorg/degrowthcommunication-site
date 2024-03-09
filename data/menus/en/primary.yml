@@ -36,9 +36,73 @@ items:
 - title: Guides
   target: "/guides/"
   kind: page
-  children: []
+  children:
+  - title: How to Defeat the Empire
+    target: "/guides/how-to-defeat-the-empire/"
+    kind: page
+    children: []
+  - title: How to Get Your Dissident Ideas Heard Online
+    target: "/guides/how-to-get-your-dissident-ideas-heard/"
+    kind: page
+    children: []
+  - title: How to Fight Establishment Propaganda and Win
+    target: "/guides/how-to-fight-establishment-propaganda-and-win/"
+    kind: page
+    children: []
 - title: Guides
   target: "/guides/"
   kind: page
-  children: []
+  children:
+  - title: How to Defeat the Empire
+    target: "/guides/how-to-defeat-the-empire/"
+    kind: page
+    children: []
+  - title: How to Get Your Dissident Ideas Heard Online
+    target: "/guides/how-to-get-your-dissident-ideas-heard/"
+    kind: page
+    children: []
+  - title: How to Fight Establishment Propaganda and Win
+    target: "/guides/how-to-fight-establishment-propaganda-and-win/"
+    kind: page
+    children: []
+- title: Media
+  target: "/media/"
+  kind: page
+  children:
+  - title: Comic Book
+    target: "/media/comic-book/"
+    kind: page
+    children: []
+  - title: Posters
+    target: "/media/posters/"
+    kind: page
+    children: []
+  - title: Videos
+    target: "/media/videos-1/"
+    kind: page
+    children: []
+  - title: Magazine
+    target: "/media/magazine/"
+    kind: page
+    children: []
+- title: Media
+  target: "/media/"
+  kind: page
+  children:
+  - title: Comic Book
+    target: "/media/comic-book/"
+    kind: page
+    children: []
+  - title: Posters
+    target: "/media/posters/"
+    kind: page
+    children: []
+  - title: Videos
+    target: "/media/videos-1/"
+    kind: page
+    children: []
+  - title: Magazine
+    target: "/media/magazine/"
+    kind: page
+    children: []
 
