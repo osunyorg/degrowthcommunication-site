@@ -49,6 +49,10 @@ items:
     target: "/media/comic-book/"
     kind: page
     children: []
+  - title: Comic Book
+    target: "/media/comic-book-1/"
+    kind: page
+    children: []
 - title: The Degrowth Database
   target: "/the-degrowth-database/"
   kind: page
