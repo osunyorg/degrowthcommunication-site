@@ -49,7 +49,7 @@ items:
     target: "/media/magazine/"
     kind: page
     children: []
-  - title: Podcasts
+  - title: Podcasts & Music
     target: "/media/podcasts/"
     kind: page
     children: []
