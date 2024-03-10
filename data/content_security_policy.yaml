@@ -6,5 +6,6 @@ allowed_domains:
   - "osuny.s3.fr-par.scw.cloud"
   - "tile.openstreetmap.org"
   - "open.spotify.com"
+  - "docs.google.com"
   - "www.youtube-nocookie.com"
   - "app.powerbi.com"
