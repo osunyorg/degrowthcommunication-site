@@ -65,4 +65,8 @@ items:
   target: "/the-degrowth-database/"
   kind: page
   children: []
+- title: Books
+  target: "/books/"
+  kind: page
+  children: []
 
