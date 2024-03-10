@@ -8,5 +8,17 @@ items:
 - title: Degrowth
   target: "/degrowth/"
   kind: page
+  children:
+  - title: Values & Principles
+    target: "/degrowth/values-principles/"
+    kind: page
+    children: []
+  - title: Polls
+    target: "/degrowth/polls/"
+    kind: page
+    children: []
+- title: Guides
+  target: "/guides/"
+  kind: page
   children: []
 
