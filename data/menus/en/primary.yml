@@ -85,6 +85,14 @@ items:
     target: "/media/posters/"
     kind: page
     children: []
+  - title: Videos
+    target: "/media/videos/"
+    kind: page
+    children: []
+  - title: Books
+    target: "/media/books/"
+    kind: page
+    children: []
 - title: Media
   target: "/media/"
   kind: page
@@ -117,4 +125,12 @@ items:
     target: "/media/books/"
     kind: page
     children: []
+- title: The Degrowth Database
+  target: "/the-degrowth-database/"
+  kind: page
+  children: []
+- title: The Degrowth Database
+  target: "/the-degrowth-database/"
+  kind: page
+  children: []
 
