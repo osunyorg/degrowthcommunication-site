@@ -19,7 +19,7 @@ full_width: false
 design:
   full_width: false
   toc:
-    present: false
+    present: true
     offcanvas: false
 
 position: 4
@@ -49,7 +49,7 @@ header_cta:
   label: 
   target: 
 contents_reading_time:
-  seconds: 60
+  seconds: 62
   text: >-
     1 minute
 contents:
@@ -79,6 +79,24 @@ contents:
       credit: >-
         
 
+
+
+  - kind: block
+    template: pages
+    title: >-
+      Presentation Slides
+    ranks:
+      self: 3
+    data:
+      page: 
+        path: "/media/presentation-slides/"
+        slug: "presentation-slides"
+        file: "pages/media/presentation-slides/_index.html"
+      show_main_description: false
+      show_descriptions: true
+      show_images: true
+      layout: alternate
+      pages:
 
 
   - kind: block
@@ -139,24 +157,12 @@ contents:
           external: false
 
 
-  - kind: block
-    template: pages
+
+  - kind: heading
     title: >-
-      Presentation Slides
-    ranks:
-      self: 3
-    data:
-      page: 
-        path: "/media/presentation-slides/"
-        slug: "presentation-slides"
-        file: "pages/media/presentation-slides/_index.html"
-      show_main_description: false
-      show_descriptions: true
-      show_images: true
-      layout: alternate
-      pages:
-
-
+      Setting Up the Workshop on the Day
+    position: 1
+    rank: 2
 
 
 ---
