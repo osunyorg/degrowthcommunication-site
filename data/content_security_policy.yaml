@@ -7,4 +7,5 @@ allowed_domains:
   - "tile.openstreetmap.org"
   - "open.spotify.com"
   - "www.youtube-nocookie.com"
+  - "docs.google.com"
   - "app.powerbi.com"
