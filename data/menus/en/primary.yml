@@ -37,6 +37,10 @@ items:
   target: "/media/"
   kind: page
   children:
+  - title: Presentation Slides
+    target: "/media/presentation-slides/"
+    kind: page
+    children: []
   - title: Social Media Posts
     target: "/media/social-media-posts/"
     kind: page
