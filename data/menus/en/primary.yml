@@ -17,6 +17,10 @@ items:
     target: "/degrowth/polls/"
     kind: page
     children: []
+  - title: What is Degrowth?
+    target: "/degrowth/what-is-degrowth/"
+    kind: page
+    children: []
 - title: Guides
   target: "/guides/"
   kind: page
