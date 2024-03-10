@@ -5,4 +5,12 @@ items:
   target: "/about/"
   kind: page
   children: []
+- title: Degrowth
+  target: "/degrowth/"
+  kind: page
+  children: []
+- title: Degrowth
+  target: "/degrowth/"
+  kind: page
+  children: []
 
