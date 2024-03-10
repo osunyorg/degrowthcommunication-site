@@ -33,6 +33,10 @@ items:
     target: "/guides/how-to-fight-establishment-propaganda-and-win/"
     kind: page
     children: []
+  - title: How to Give a Degrowth Workshop?
+    target: "/guides/how-to-give-a-degrowth-workshop/"
+    kind: page
+    children: []
 - title: Media
   target: "/media/"
   kind: page
