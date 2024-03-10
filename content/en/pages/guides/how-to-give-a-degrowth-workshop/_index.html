@@ -40,7 +40,7 @@ description: >
   
 
 summary: >
-  This crafted workshop outline is designed to equip you with the knowledge and tools needed to introduce the basic concepts and ideas of degrowth to an audience. It includes information about organising and running the workshop. <br><br>It aims to help you foster a space for learning, reflection, and discussion, possibly even leading to action.
+  This crafted workshop outline is designed to equip you with the knowledge and tools needed to introduce the basic concepts and ideas of degrowth to an audience. It includes information about organising and running the workshop. <br><br>It aims to foster a space for learning, reflection, and discussion, possibly even leading to action.
 
 header_text: >-
   
@@ -84,19 +84,20 @@ contents:
   - kind: block
     template: pages
     title: >-
-      Presentation Slides
+      
     ranks:
-      self: 3
+      self: false
+      children: 3
     data:
-      page: 
-        path: "/media/presentation-slides/"
-        slug: "presentation-slides"
-        file: "pages/media/presentation-slides/_index.html"
       show_main_description: false
       show_descriptions: true
       show_images: true
       layout: alternate
       pages:
+        - path: "/media/presentation-slides/"
+          slug: "presentation-slides"
+          file: "pages/media/presentation-slides/_index.html"
+          external: false
 
 
 
