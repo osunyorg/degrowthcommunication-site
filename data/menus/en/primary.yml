@@ -21,4 +21,8 @@ items:
     target: "/degrowth/polls/"
     kind: page
     children: []
+- title: Guides
+  target: "/guides/"
+  kind: page
+  children: []
 
