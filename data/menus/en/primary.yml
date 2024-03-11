@@ -44,5 +44,25 @@ items:
 - title: Media
   target: "/media/"
   kind: page
-  children: []
+  children:
+  - title: Presentation Slides
+    target: "/media/presentation-slides/"
+    kind: page
+    children: []
+  - title: Social Media Posts
+    target: "/media/social-media-posts/"
+    kind: page
+    children: []
+  - title: Podcasts & Music
+    target: "/media/podcasts/"
+    kind: page
+    children: []
+  - title: Comic Book
+    target: "/media/comic-book/"
+    kind: page
+    children: []
+  - title: Magazine
+    target: "/media/magazine/"
+    kind: page
+    children: []
 
