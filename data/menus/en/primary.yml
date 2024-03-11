@@ -13,6 +13,10 @@ items:
     target: "/degrowth/what-is-degrowth/"
     kind: page
     children: []
+  - title: A Degrowth Economy Explained
+    target: "/degrowth/a-degrowth-economy-explained/"
+    kind: page
+    children: []
   - title: Values & Principles
     target: "/degrowth/values-principles/"
     kind: page
@@ -77,12 +81,4 @@ items:
     target: "/media/books/"
     kind: page
     children: []
-- title: The Degrowth Database
-  target: "/the-degrowth-database/"
-  kind: page
-  children: []
-- title: A Degrowth Economy Explained
-  target: "/a-degrowth-economy-explained/"
-  kind: page
-  children: []
 
