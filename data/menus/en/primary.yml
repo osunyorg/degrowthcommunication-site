@@ -5,4 +5,36 @@ items:
   target: "/about/"
   kind: page
   children: []
+- title: Degrowth
+  target: "/degrowth/"
+  kind: page
+  children:
+  - title: What is Degrowth?
+    target: "/degrowth/what-is-degrowth/"
+    kind: page
+    children: []
+  - title: Values & Principles
+    target: "/degrowth/values-principles/"
+    kind: page
+    children: []
+  - title: Polls
+    target: "/degrowth/polls/"
+    kind: page
+    children: []
+- title: Degrowth
+  target: "/degrowth/"
+  kind: page
+  children:
+  - title: What is Degrowth?
+    target: "/degrowth/what-is-degrowth/"
+    kind: page
+    children: []
+  - title: Values & Principles
+    target: "/degrowth/values-principles/"
+    kind: page
+    children: []
+  - title: Polls
+    target: "/degrowth/polls/"
+    kind: page
+    children: []
 
