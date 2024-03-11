@@ -81,4 +81,8 @@ items:
     target: "/media/books/"
     kind: page
     children: []
+- title: The Degrowth Database
+  target: "/the-degrowth-database/"
+  kind: page
+  children: []
 
