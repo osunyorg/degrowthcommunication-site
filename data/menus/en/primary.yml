@@ -81,4 +81,8 @@ items:
   target: "/the-degrowth-database/"
   kind: page
   children: []
+- title: A Degrowth Economy Explained
+  target: "/a-degrowth-economy-explained/"
+  kind: page
+  children: []
 
