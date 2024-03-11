@@ -150,16 +150,21 @@ contents:
       The Degrowth Database
     ranks:
       self: 2
+      children: 3
     data:
       page: 
         path: "/the-degrowth-database/"
         slug: "the-degrowth-database"
         file: "pages/the-degrowth-database/_index.html"
-      show_main_description: true
+      show_main_description: false
       show_descriptions: true
       show_images: true
       layout: large
       pages:
+        - path: "/the-degrowth-database/"
+          slug: "the-degrowth-database"
+          file: "pages/the-degrowth-database/_index.html"
+          external: false
 
 
   - kind: block
