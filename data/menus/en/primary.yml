@@ -21,7 +21,7 @@ items:
     target: "/degrowth/values-principles/"
     kind: page
     children: []
-  - title: Policies
+  - title: Degrowth Policies
     target: "/degrowth/policies/"
     kind: page
     children: []
