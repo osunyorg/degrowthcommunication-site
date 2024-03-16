@@ -4,7 +4,11 @@ items:
 - title: About
   target: "/about/"
   kind: page
-  children: []
+  children:
+  - title: Who Made This?
+    target: "/about/who/"
+    kind: page
+    children: []
 - title: Degrowth
   target: "/degrowth/"
   kind: page
@@ -87,10 +91,6 @@ items:
     children: []
 - title: The Degrowth Database
   target: "/the-degrowth-database/"
-  kind: page
-  children: []
-- title: Who Made This?
-  target: "/who/"
   kind: page
   children: []
 
