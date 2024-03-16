@@ -9,6 +9,10 @@ items:
     target: "/about/who/"
     kind: page
     children: []
+  - title: Why We're Here
+    target: "/about/why-were-here/"
+    kind: page
+    children: []
 - title: Degrowth
   target: "/degrowth/"
   kind: page
