@@ -97,4 +97,8 @@ items:
   target: "/the-degrowth-database/"
   kind: page
   children: []
+- title: How to help
+  target: "/how-to-help/"
+  kind: page
+  children: []
 
