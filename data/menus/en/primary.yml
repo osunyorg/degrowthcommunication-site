@@ -89,4 +89,8 @@ items:
   target: "/the-degrowth-database/"
   kind: page
   children: []
+- title: Who Made This?
+  target: "/who/"
+  kind: page
+  children: []
 
