@@ -9,6 +9,10 @@ items:
     target: "/about/who/"
     kind: page
     children: []
+  - title: How to help
+    target: "/about/how-to-help/"
+    kind: page
+    children: []
   - title: Why We're Here
     target: "/about/why-were-here/"
     kind: page
@@ -95,10 +99,6 @@ items:
     children: []
 - title: The Degrowth Database
   target: "/the-degrowth-database/"
-  kind: page
-  children: []
-- title: How to help
-  target: "/how-to-help/"
   kind: page
   children: []
 
