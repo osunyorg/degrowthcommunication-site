@@ -5,7 +5,7 @@ items:
   target: "/about/"
   kind: page
   children:
-  - title: Who Made This?
+  - title: Who We Are
     target: "/about/who/"
     kind: page
     children: []
