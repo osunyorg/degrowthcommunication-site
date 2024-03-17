@@ -1,2 +1,8 @@
 h1
     color: $color-accent
+.blocks
+    .block-chapter
+        &:not(.block-chapter--with-image)
+            .chapter
+                @include in-page-without-sidebar
+                    justify-content: center
