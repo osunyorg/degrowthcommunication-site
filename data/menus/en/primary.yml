@@ -13,8 +13,8 @@ items:
     target: "/about/why-were-here/"
     kind: page
     children: []
-  - title: How to help
-    target: "/about/how-to-help/"
+  - title: How You Can Help
+    target: "/about/how-you-can-help/"
     kind: page
     children: []
 - title: Degrowth
