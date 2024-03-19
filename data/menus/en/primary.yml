@@ -37,12 +37,12 @@ items:
     target: "/degrowth/values-principles/"
     kind: page
     children: []
-  - title: Degrowth Policies
-    target: "/degrowth/policies/"
-    kind: page
-    children: []
   - title: Polls & Attitudes on Degrowth
     target: "/degrowth/polls/"
+    kind: page
+    children: []
+  - title: Degrowth Policies
+    target: "/degrowth/policies/"
     kind: page
     children: []
 - title: Guides
