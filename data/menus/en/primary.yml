@@ -29,6 +29,10 @@ items:
     target: "/degrowth/a-degrowth-economy-explained/"
     kind: page
     children: []
+  - title: Misconceptions about Degrowth
+    target: "/degrowth/misconceptions-about-degrowth/"
+    kind: page
+    children: []
   - title: Values & Principles
     target: "/degrowth/values-principles/"
     kind: page
@@ -39,10 +43,6 @@ items:
     children: []
   - title: Polls & Attitudes
     target: "/degrowth/polls/"
-    kind: page
-    children: []
-  - title: Misconceptions about Degrowth
-    target: "/degrowth/misconceptions-about-degrowth/"
     kind: page
     children: []
 - title: Guides
