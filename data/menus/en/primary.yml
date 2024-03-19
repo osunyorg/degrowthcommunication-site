@@ -41,7 +41,7 @@ items:
     target: "/degrowth/policies/"
     kind: page
     children: []
-  - title: Polls & Attitudes
+  - title: Polls & Attitudes on Degrowth
     target: "/degrowth/polls/"
     kind: page
     children: []
