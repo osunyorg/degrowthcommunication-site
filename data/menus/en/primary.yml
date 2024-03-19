@@ -41,6 +41,10 @@ items:
     target: "/degrowth/polls/"
     kind: page
     children: []
+  - title: Misconceptions about Degrowth
+    target: "/degrowth/misconceptions-about-degrowth/"
+    kind: page
+    children: []
 - title: Guides
   target: "/guides/"
   kind: page
