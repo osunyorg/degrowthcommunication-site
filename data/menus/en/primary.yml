@@ -29,6 +29,10 @@ items:
     target: "/degrowth/a-degrowth-economy-explained/"
     kind: page
     children: []
+  - title: Demystifying Degrowth
+    target: "/degrowth/demystifying-degrowth/"
+    kind: page
+    children: []
   - title: Values & Principles
     target: "/degrowth/values-principles/"
     kind: page
@@ -43,10 +47,6 @@ items:
     children: []
   - title: Degrowth Policies
     target: "/degrowth/policies/"
-    kind: page
-    children: []
-  - title: Demystifying Degrowth
-    target: "/degrowth/demystifying-degrowth/"
     kind: page
     children: []
 - title: Guides
