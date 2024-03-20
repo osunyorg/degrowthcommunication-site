@@ -45,6 +45,10 @@ items:
     target: "/degrowth/policies/"
     kind: page
     children: []
+  - title: Demystifying Degrowth
+    target: "/degrowth/demystifying-degrowth/"
+    kind: page
+    children: []
 - title: Guides
   target: "/guides/"
   kind: page
