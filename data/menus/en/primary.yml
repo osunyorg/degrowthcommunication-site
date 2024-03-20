@@ -81,7 +81,7 @@ items:
     target: "/media/podcasts/"
     kind: page
     children: []
-  - title: Comic Book
+  - title: Comic Books
     target: "/media/comic-book/"
     kind: page
     children: []
