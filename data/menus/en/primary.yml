@@ -33,7 +33,7 @@ items:
     target: "/degrowth/values-principles/"
     kind: page
     children: []
-  - title: Misconceptions about Degrowth
+  - title: Misconceptions
     target: "/degrowth/misconceptions-about-degrowth/"
     kind: page
     children: []
