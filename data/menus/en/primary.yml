@@ -37,8 +37,8 @@ items:
     target: "/degrowth/values-principles/"
     kind: page
     children: []
-  - title: Misconceptions
-    target: "/degrowth/misconceptions-about-degrowth/"
+  - title: Myths and Misconceptions
+    target: "/degrowth/myth-and-misconceptions/"
     kind: page
     children: []
   - title: Polls & Attitudes
