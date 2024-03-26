@@ -41,12 +41,12 @@ items:
     target: "/degrowth/myth-and-misconceptions/"
     kind: page
     children: []
-  - title: Polls & Attitudes
-    target: "/degrowth/polls/"
-    kind: page
-    children: []
   - title: Degrowth Policies
     target: "/degrowth/policies/"
+    kind: page
+    children: []
+  - title: Polls & Attitudes
+    target: "/degrowth/polls/"
     kind: page
     children: []
   - title: FAQs
