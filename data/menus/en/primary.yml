@@ -33,6 +33,10 @@ items:
     target: "/degrowth/demystifying-degrowth/"
     kind: page
     children: []
+  - title: 'How Do We Pay for It? '
+    target: "/degrowth/how-do-we-pay-for-it/"
+    kind: page
+    children: []
   - title: Values & Principles
     target: "/degrowth/values-principles/"
     kind: page
@@ -51,10 +55,6 @@ items:
     children: []
   - title: FAQs
     target: "/degrowth/faqs/"
-    kind: page
-    children: []
-  - title: 'How Do We Pay for It? '
-    target: "/degrowth/how-do-we-pay-for-it/"
     kind: page
     children: []
 - title: Guides
