@@ -49,6 +49,10 @@ items:
     target: "/degrowth/policies/"
     kind: page
     children: []
+  - title: FAQs
+    target: "/degrowth/faqs/"
+    kind: page
+    children: []
 - title: Guides
   target: "/guides/"
   kind: page
