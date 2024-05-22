@@ -105,8 +105,8 @@ items:
     target: "/media/comic-book/"
     kind: page
     children: []
-  - title: Magazine
-    target: "/media/magazine/"
+  - title: Magazines
+    target: "/media/magazines/"
     kind: page
     children: []
   - title: Posters
