@@ -17,8 +17,8 @@ items:
     target: "/about/how-you-can-help/"
     kind: page
     children: []
-  - title: Transparency
-    target: "/about/transparency/"
+  - title: AI Transparency
+    target: "/about/ai-transparency/"
     kind: page
     children: []
 - title: Degrowth
