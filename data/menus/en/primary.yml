@@ -53,8 +53,8 @@ items:
     target: "/degrowth/policies/"
     kind: page
     children: []
-  - title: Polls & Attitudes
-    target: "/degrowth/polls/"
+  - title: Degrowth is Popular!
+    target: "/degrowth/degrowth-is-popular/"
     kind: page
     children: []
   - title: FAQs
