@@ -69,10 +69,6 @@ items:
     target: "/guides/how-to-talk-about-degrowth/"
     kind: page
     children: []
-  - title: How to Talk to 'X' About Degrowth
-    target: "/guides/how-to-talk-to-x-about-degrowth/"
-    kind: page
-    children: []
   - title: How to Give a Degrowth Workshop
     target: "/guides/how-to-give-a-degrowth-workshop/"
     kind: page
