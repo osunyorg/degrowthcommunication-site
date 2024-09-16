@@ -61,6 +61,10 @@ items:
     target: "/degrowth/faqs/"
     kind: page
     children: []
+  - title: Glossary
+    target: "/degrowth/glossary/"
+    kind: page
+    children: []
 - title: Guides
   target: "/guides/"
   kind: page
