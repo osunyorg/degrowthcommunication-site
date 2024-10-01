@@ -129,10 +129,6 @@ items:
   target: "/the-degrowth-database/"
   kind: page
   children: []
-- title: Projects
-  target: "/to-ignore-for-now/projects/"
-  kind: page
-  children: []
 - title: Diplomas
   target: "/to-ignore-for-now/diplomas/"
   kind: page
