@@ -149,8 +149,4 @@ items:
   target: "/to-ignore-for-now/publications/"
   kind: page
   children: []
-- title: Campus
-  target: "/to-ignore-for-now/campus/"
-  kind: page
-  children: []
 
