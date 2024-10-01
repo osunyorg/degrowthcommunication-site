@@ -142,19 +142,19 @@ items:
   kind: page
   children: []
 - title: Volumes
-  target: "/volumes/"
+  target: "/to-ignore-for-now/volumes/"
   kind: page
   children: []
 - title: Papers
-  target: "/papers/"
+  target: "/to-ignore-for-now/papers/"
   kind: page
   children: []
 - title: HAL publications
-  target: "/publications/"
+  target: "/to-ignore-for-now/publications/"
   kind: page
   children: []
 - title: Campus
-  target: "/campus/"
+  target: "/to-ignore-for-now/campus/"
   kind: page
   children: []
 
