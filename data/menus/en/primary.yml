@@ -141,12 +141,4 @@ items:
   target: "/to-ignore-for-now/volumes/"
   kind: page
   children: []
-- title: Papers
-  target: "/to-ignore-for-now/papers/"
-  kind: page
-  children: []
-- title: HAL publications
-  target: "/to-ignore-for-now/publications/"
-  kind: page
-  children: []
 
