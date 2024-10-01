@@ -133,8 +133,4 @@ items:
   target: "/to-ignore-for-now/diplomas/"
   kind: page
   children: []
-- title: Programs
-  target: "/to-ignore-for-now/programs/"
-  kind: page
-  children: []
 
