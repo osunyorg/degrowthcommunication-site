@@ -137,8 +137,4 @@ items:
   target: "/to-ignore-for-now/programs/"
   kind: page
   children: []
-- title: Volumes
-  target: "/to-ignore-for-now/volumes/"
-  kind: page
-  children: []
 
