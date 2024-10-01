@@ -130,15 +130,15 @@ items:
   kind: page
   children: []
 - title: Projects
-  target: "/projects/"
+  target: "/to-ignore-for-now/projects/"
   kind: page
   children: []
 - title: Diplomas
-  target: "/diplomas/"
+  target: "/to-ignore-for-now/diplomas/"
   kind: page
   children: []
 - title: Programs
-  target: "/programs/"
+  target: "/to-ignore-for-now/programs/"
   kind: page
   children: []
 - title: Volumes
