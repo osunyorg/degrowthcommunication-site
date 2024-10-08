@@ -1,4 +1,8 @@
 ---
 title: Legal
-items: []
+items:
+- title: Legal terms
+  target: "/legal-terms/"
+  kind: page
+  children: []
 
