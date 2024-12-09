@@ -7,11 +7,20 @@ en:
   languageCode: en
   languageName: English
   params:
-    social:
-      email: >-
-        explore@degrowth.net
-      youtube: >-
-        https://www.youtube.com/@DegrowthPlaylists
+    contact_details:
+      emails:
+        email:
+          label: >-
+            explore@degrowth.net
+          value: >-
+            mailto:explore@degrowth.net
+      social_networks:
+        youtube:
+          label: >-
+            DegrowthPlaylists
+          value: >-
+            https://www.youtube.com/@DegrowthPlaylists
+
   permalinks:
   taxonomies:
     administrator: administrators
