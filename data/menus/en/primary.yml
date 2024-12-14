@@ -9,22 +9,27 @@ items:
     target: "/about/who/"
     kind: page
     children: []
+    path: "/pages/about/who"
     file: content/en/pages/about/who/_index.html
   - title: Why We're Here
     target: "/about/why-were-here/"
     kind: page
     children: []
+    path: "/pages/about/why-were-here"
     file: content/en/pages/about/why-were-here/_index.html
   - title: How You Can Help
     target: "/about/how-you-can-help/"
     kind: page
     children: []
+    path: "/pages/about/how-you-can-help"
     file: content/en/pages/about/how-you-can-help/_index.html
   - title: AI Transparency
     target: "/about/ai-transparency/"
     kind: page
     children: []
+    path: "/pages/about/ai-transparency"
     file: content/en/pages/about/ai-transparency/_index.html
+  path: "/pages/about"
   file: content/en/pages/about/_index.html
 - title: Degrowth
   target: "/degrowth/"
@@ -34,52 +39,63 @@ items:
     target: "/degrowth/what-is-degrowth/"
     kind: page
     children: []
+    path: "/pages/degrowth/what-is-degrowth"
     file: content/en/pages/degrowth/what-is-degrowth/_index.html
   - title: A Degrowth Economy Explained
     target: "/degrowth/a-degrowth-economy-explained/"
     kind: page
     children: []
+    path: "/pages/degrowth/a-degrowth-economy-explained"
     file: content/en/pages/degrowth/a-degrowth-economy-explained/_index.html
   - title: Demystifying Degrowth
     target: "/degrowth/demystifying-degrowth/"
     kind: page
     children: []
+    path: "/pages/degrowth/demystifying-degrowth"
     file: content/en/pages/degrowth/demystifying-degrowth/_index.html
   - title: 'How Do We Pay for It? '
     target: "/degrowth/how-do-we-pay-for-it/"
     kind: page
     children: []
+    path: "/pages/degrowth/how-do-we-pay-for-it"
     file: content/en/pages/degrowth/how-do-we-pay-for-it/_index.html
   - title: Values & Principles
     target: "/degrowth/values-principles/"
     kind: page
     children: []
+    path: "/pages/degrowth/values-principles"
     file: content/en/pages/degrowth/values-principles/_index.html
   - title: Myths and Misconceptions
     target: "/degrowth/myth-and-misconceptions/"
     kind: page
     children: []
+    path: "/pages/degrowth/myth-and-misconceptions"
     file: content/en/pages/degrowth/myth-and-misconceptions/_index.html
   - title: Degrowth Policies
     target: "/degrowth/policies/"
     kind: page
     children: []
+    path: "/pages/degrowth/policies"
     file: content/en/pages/degrowth/policies/_index.html
   - title: Degrowth is Popular!
     target: "/degrowth/degrowth-is-popular/"
     kind: page
     children: []
+    path: "/pages/degrowth/degrowth-is-popular"
     file: content/en/pages/degrowth/degrowth-is-popular/_index.html
   - title: Glossary
     target: "/degrowth/glossary/"
     kind: page
     children: []
+    path: "/pages/degrowth/glossary"
     file: content/en/pages/degrowth/glossary/_index.html
   - title: FAQs
     target: "/degrowth/faqs/"
     kind: page
     children: []
+    path: "/pages/degrowth/faqs"
     file: content/en/pages/degrowth/faqs/_index.html
+  path: "/pages/degrowth"
   file: content/en/pages/degrowth/_index.html
 - title: Guides
   target: "/guides/"
@@ -89,27 +105,33 @@ items:
     target: "/guides/how-to-talk-about-degrowth/"
     kind: page
     children: []
+    path: "/pages/guides/how-to-talk-about-degrowth"
     file: content/en/pages/guides/how-to-talk-about-degrowth/_index.html
   - title: How to Give a Degrowth Workshop
     target: "/guides/how-to-give-a-degrowth-workshop/"
     kind: page
     children: []
+    path: "/pages/guides/how-to-give-a-degrowth-workshop"
     file: content/en/pages/guides/how-to-give-a-degrowth-workshop/_index.html
   - title: How to Defeat the Empire
     target: "/guides/how-to-defeat-the-empire/"
     kind: page
     children: []
+    path: "/pages/guides/how-to-defeat-the-empire"
     file: content/en/pages/guides/how-to-defeat-the-empire/_index.html
   - title: How to Get Your Dissident Ideas Heard Online
     target: "/guides/how-to-get-your-dissident-ideas-heard/"
     kind: page
     children: []
+    path: "/pages/guides/how-to-get-your-dissident-ideas-heard"
     file: content/en/pages/guides/how-to-get-your-dissident-ideas-heard/_index.html
   - title: How to Fight Establishment Propaganda and Win
     target: "/guides/how-to-fight-establishment-propaganda-and-win/"
     kind: page
     children: []
+    path: "/pages/guides/how-to-fight-establishment-propaganda-and-win"
     file: content/en/pages/guides/how-to-fight-establishment-propaganda-and-win/_index.html
+  path: "/pages/guides"
   file: content/en/pages/guides/_index.html
 - title: Media
   target: "/media/"
@@ -119,46 +141,56 @@ items:
     target: "/media/presentation-slides/"
     kind: page
     children: []
+    path: "/pages/media/presentation-slides"
     file: content/en/pages/media/presentation-slides/_index.html
   - title: Social Media Posts
     target: "/media/social-media-posts/"
     kind: page
     children: []
+    path: "/pages/media/social-media-posts"
     file: content/en/pages/media/social-media-posts/_index.html
   - title: Podcasts & Music
     target: "/media/podcasts/"
     kind: page
     children: []
+    path: "/pages/media/podcasts"
     file: content/en/pages/media/podcasts/_index.html
   - title: Comic Books
     target: "/media/comic-book/"
     kind: page
     children: []
+    path: "/pages/media/comic-book"
     file: content/en/pages/media/comic-book/_index.html
   - title: Magazines
     target: "/media/magazines/"
     kind: page
     children: []
+    path: "/pages/media/magazines"
     file: content/en/pages/media/magazines/_index.html
   - title: Posters
     target: "/media/posters/"
     kind: page
     children: []
+    path: "/pages/media/posters"
     file: content/en/pages/media/posters/_index.html
   - title: Videos
     target: "/media/videos/"
     kind: page
     children: []
+    path: "/pages/media/videos"
     file: content/en/pages/media/videos/_index.html
   - title: Books
     target: "/media/books/"
     kind: page
     children: []
+    path: "/pages/media/books"
     file: content/en/pages/media/books/_index.html
+  path: "/pages/media"
   file: content/en/pages/media/_index.html
 - title: The Degrowth Database
   target: "/the-degrowth-database/"
   kind: page
   children: []
+  path: "/pages/the-degrowth-database"
   file: content/en/pages/the-degrowth-database/_index.html
 
