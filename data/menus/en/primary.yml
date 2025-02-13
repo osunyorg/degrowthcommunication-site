@@ -27,13 +27,6 @@ items:
     children: []
     path: "/pages/about/how-you-can-help"
     file: content/en/pages/about/how-you-can-help/_index.html
-  - title: AI Transparency
-    target: "/about/ai-transparency/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/about/ai-transparency"
-    file: content/en/pages/about/ai-transparency/_index.html
   path: "/pages/about"
   file: content/en/pages/about/_index.html
 - title: Degrowth
