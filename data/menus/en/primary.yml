@@ -55,7 +55,7 @@ items:
     children: []
     path: "/pages/degrowth/demystifying-degrowth"
     file: content/en/pages/degrowth/demystifying-degrowth/_index.html
-  - title: 'How Do We Pay for It? '
+  - title: How Do We Pay for Degrowth?
     target: "/degrowth/how-do-we-pay-for-degrowth/"
     kind: page
     new_tab: false
