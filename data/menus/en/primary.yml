@@ -56,12 +56,12 @@ items:
     path: "/pages/degrowth/demystifying-degrowth"
     file: content/en/pages/degrowth/demystifying-degrowth/_index.html
   - title: 'How Do We Pay for It? '
-    target: "/degrowth/how-do-we-pay-for-it/"
+    target: "/degrowth/how-do-we-pay-for-degrowth/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/degrowth/how-do-we-pay-for-it"
-    file: content/en/pages/degrowth/how-do-we-pay-for-it/_index.html
+    path: "/pages/degrowth/how-do-we-pay-for-degrowth"
+    file: content/en/pages/degrowth/how-do-we-pay-for-degrowth/_index.html
   - title: Values & Principles
     target: "/degrowth/values-principles/"
     kind: page
