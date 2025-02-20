@@ -15,11 +15,31 @@ en:
           value: >-
             mailto:explore@degrowth.net
       social_networks:
+        instagram:
+          label: >-
+            degrowth.network
+          value: >-
+            https://instagram.com/degrowth.network
+        linkedin:
+          label: >-
+            international-degrowth-network
+          value: >-
+            https://www.linkedin.com/company/international-degrowth-network
+        mastodon:
+          label: >-
+            degrowth.social/@IDN
+          value: >-
+            https://degrowth.social/@IDN
+        tiktok:
+          label: >-
+            degrowth.network
+          value: >-
+            https://www.tiktok.com/@degrowth.network
         youtube:
           label: >-
-            DegrowthPlaylists
+            Degrowth.Network
           value: >-
-            https://www.youtube.com/@DegrowthPlaylists
+            https://www.youtube.com/@Degrowth.Network
 
   permalinks:
     pages_categories: /:slug/
