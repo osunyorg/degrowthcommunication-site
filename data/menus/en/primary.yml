@@ -224,12 +224,12 @@ items:
   new_tab: false
   children:
   - title: 'Degrowth for Businesses '
-    target: "/resources/degrowth-101/"
+    target: "/resources/degrowth-for-businesses/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/resources/degrowth-101"
-    file: content/en/pages/resources/degrowth-101/_index.html
+    path: "/pages/resources/degrowth-for-businesses"
+    file: content/en/pages/resources/degrowth-for-businesses/_index.html
   - title: Degrowth Networks
     target: "/resources/degrowth-networks/"
     kind: page
