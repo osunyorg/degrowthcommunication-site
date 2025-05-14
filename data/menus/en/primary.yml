@@ -27,13 +27,6 @@ items:
     children: []
     path: "/pages/about/how-you-can-help"
     file: content/en/pages/about/how-you-can-help/_index.html
-  - title: AI Transparency
-    target: "/about/ai-transparency/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/about/ai-transparency"
-    file: content/en/pages/about/ai-transparency/_index.html
   path: "/pages/about"
   file: content/en/pages/about/_index.html
 - title: Degrowth
@@ -62,13 +55,13 @@ items:
     children: []
     path: "/pages/degrowth/demystifying-degrowth"
     file: content/en/pages/degrowth/demystifying-degrowth/_index.html
-  - title: 'How Do We Pay for It? '
-    target: "/degrowth/how-do-we-pay-for-it/"
+  - title: 'How Do We Pay for Degrowth? '
+    target: "/degrowth/how-do-we-pay-for-degrowth/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/degrowth/how-do-we-pay-for-it"
-    file: content/en/pages/degrowth/how-do-we-pay-for-it/_index.html
+    path: "/pages/degrowth/how-do-we-pay-for-degrowth"
+    file: content/en/pages/degrowth/how-do-we-pay-for-degrowth/_index.html
   - title: Values & Principles
     target: "/degrowth/values-principles/"
     kind: page
@@ -231,12 +224,19 @@ items:
   new_tab: false
   children:
   - title: 'Degrowth for Businesses '
-    target: "/resources/degrowth-101/"
+    target: "/resources/degrowth-for-businesses/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/resources/degrowth-101"
-    file: content/en/pages/resources/degrowth-101/_index.html
+    path: "/pages/resources/degrowth-for-businesses"
+    file: content/en/pages/resources/degrowth-for-businesses/_index.html
+  - title: Degrowth Networks
+    target: "/resources/degrowth-networks/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/resources/degrowth-networks"
+    file: content/en/pages/resources/degrowth-networks/_index.html
   path: "/pages/resources"
   file: content/en/pages/resources/_index.html
 

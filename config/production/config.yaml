@@ -2,6 +2,11 @@
 
 baseURL: https://explore.degrowth.net
 
+## OSUNY
+osuny:
+  website:
+    id: a259c4f0-9282-4e14-b01e-6666cb9641e5
+
 ## LANGUAGE
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
@@ -16,6 +21,7 @@ deployment:
       cacheControl: "max-age=31536000, no-transform, public"
       gzip: false
   ## DEUXFLEURS
+  workers: 2
   targets:
     - name: "production"
       URL: "s3://explore.degrowth.net?endpoint=garage.deuxfleurs.fr&s3ForcePathStyle=true&region=garage&awssdk=v1"
