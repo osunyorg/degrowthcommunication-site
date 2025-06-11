@@ -42,8 +42,6 @@ en:
           value: >-
             https://www.youtube.com/@Degrowth.Network
 
-  permalinks:
-    pages_categories: /:slug/
   taxonomies:
     administrator: administrators
     author: authors
