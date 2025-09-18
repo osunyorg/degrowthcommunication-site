@@ -262,7 +262,14 @@ items:
     target: "/transformative-learning/our-tl-for-degrowth-principles/"
     kind: page
     new_tab: false
-    children: []
+    children:
+    - title: Principle#1 of TL for Degrowth
+      target: "/transformative-learning/our-tl-for-degrowth-principles/principle-1/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/transformative-learning/our-tl-for-degrowth-principles/principle-1"
+      file: content/en/pages/transformative-learning/our-tl-for-degrowth-principles/principle-1/_index.html
     path: "/pages/transformative-learning/our-tl-for-degrowth-principles"
     file: content/en/pages/transformative-learning/our-tl-for-degrowth-principles/_index.html
   path: "/pages/transformative-learning"
