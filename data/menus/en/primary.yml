@@ -258,6 +258,13 @@ items:
     children: []
     path: "/pages/transformative-learning/glossary-of-transformative-learning-for-degrowth"
     file: content/en/pages/transformative-learning/glossary-of-transformative-learning-for-degrowth/_index.html
+  - title: TL for Degrowth Principles
+    target: "/transformative-learning/our-tl-for-degrowth-principles/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/transformative-learning/our-tl-for-degrowth-principles"
+    file: content/en/pages/transformative-learning/our-tl-for-degrowth-principles/_index.html
   path: "/pages/transformative-learning"
   file: content/en/pages/transformative-learning/_index.html
 
