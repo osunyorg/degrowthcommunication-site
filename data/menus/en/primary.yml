@@ -246,4 +246,11 @@ items:
     file: content/en/pages/resources/degrowth-in-practice/_index.html
   path: "/pages/resources"
   file: content/en/pages/resources/_index.html
+- title: Degrowth Games
+  target: "/degrowth-games/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/degrowth-games"
+  file: content/en/pages/degrowth-games/_index.html
 
