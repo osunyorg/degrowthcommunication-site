@@ -132,13 +132,6 @@ items:
     children: []
     path: "/pages/guides/how-to-defeat-the-empire"
     file: content/en/pages/guides/how-to-defeat-the-empire/_index.html
-  - title: How to Get Your Dissident Ideas Heard Online
-    target: "/guides/how-to-get-your-dissident-ideas-heard/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/guides/how-to-get-your-dissident-ideas-heard"
-    file: content/en/pages/guides/how-to-get-your-dissident-ideas-heard/_index.html
   - title: How to Fight Establishment Propaganda and Win
     target: "/guides/how-to-fight-establishment-propaganda-and-win/"
     kind: page
@@ -146,6 +139,13 @@ items:
     children: []
     path: "/pages/guides/how-to-fight-establishment-propaganda-and-win"
     file: content/en/pages/guides/how-to-fight-establishment-propaganda-and-win/_index.html
+  - title: How to Get Your Dissident Ideas Heard Online
+    target: "/guides/how-to-get-your-dissident-ideas-heard/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/guides/how-to-get-your-dissident-ideas-heard"
+    file: content/en/pages/guides/how-to-get-your-dissident-ideas-heard/_index.html
   path: "/pages/guides"
   file: content/en/pages/guides/_index.html
 - title: Media
