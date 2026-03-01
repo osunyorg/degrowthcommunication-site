@@ -360,9 +360,20 @@ items:
   target: "/transformative-learning/"
   kind: page
   new_tab: false
-  children: []
+  children:
+  - title: TL for Degrowth Principles
+    slug: tl-for-degrowth-principles
+    target: "/transformative-learning/our-tl-for-degrowth-principles/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets:
+    - "/transformative-learning/our-tl-for-degrowth-principles/activity-1/"
+    path: "/pages/transformative-learning/our-tl-for-degrowth-principles"
+    file: content/en/pages/transformative-learning/our-tl-for-degrowth-principles/_index.html
   descendants_targets:
-  - "/transformative-learning/activity-1/"
+  - "/transformative-learning/our-tl-for-degrowth-principles/"
+  - "/transformative-learning/our-tl-for-degrowth-principles/activity-1/"
   path: "/pages/transformative-learning"
   file: content/en/pages/transformative-learning/_index.html
 
